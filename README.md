@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey, I'm Komal! 👋
 
-<!--
-**Komaljs/komaljs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Computer Science Student
 
-Here are some ideas to get you started:
+💻 Aspiring Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student who enjoys learning new technologies and building projects. I'm currently improving my web development skills and exploring Python.
+
+### 🛠️ Skills & Technologies
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git & GitHub
+
+### 🌱 Currently Learning
+- Responsive Web Design
+- Front-End Development
+- Building practical projects
+
+### 🎯 Goals
+- Build useful and creative web projects
+- Improve my problem-solving skills
+- Grow as a developer through continuous learning
+
+### 📫 Connect with Me
+Feel free to explore my repositories and follow my learning journey!
+
+✨ *Learning, building, and growing one step at a time.*
